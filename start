@@ -1,0 +1,1 @@
+chromium-browser --kiosk --disable-session-crashed-bubble --disable-infobars --disable-restore-session-state https://whispering-caverns-41789.herokuapp.com/
